@@ -1,0 +1,37 @@
+.div1
+{
+    border: 2px solid black;
+    height:510px;
+    width:23vw;
+    overflow: hidden;
+}
+img{
+    width: 30%;
+    height: 60px;
+}
+.image1{
+    border-radius: 50%;
+    height: 300px;
+    width: 80%;
+    margin-left: 30%;
+    overflow: hidden;
+}
+.div2{
+    width: 80%;
+    margin-left: 3%;
+}
+h1{
+    color: orange;
+    text-decoration: underline dotted grey;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 6px;
+    margin-top:-18%;
+}
+u{
+    /* border-top: 2px dotted black; */
+    margin-top: -3%;
+}
+p{
+    color: grey;
+  font-size: small;
+}
